@@ -1,0 +1,62 @@
+[I 15:46:12.608 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-07-01 15:46:13.862 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 15:46:13.862 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 15:46:13.862 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 15:46:13.862 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 15:46:13.862 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 15:46:13.862 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 15:46:13.862 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 15:46:13.862 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-01 15:46:13.862 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-01 15:46:13.862 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 15:46:13.862 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-01 15:46:13.862 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-01 15:46:13.871 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-01 15:46:13.871 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 15:46:13.878 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/nteract_on_jupyter
+[I 15:46:13.880 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 15:46:13.881 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 15:46:13.881 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 15:46:13.881 NotebookApp] http://jupyter-ilvailska-2dregex1-2dh7so7z0q:8888/user/ilvailska-regex1-h7so7z0q/?token=...
+[I 15:46:13.881 NotebookApp]  or http://127.0.0.1:8888/user/ilvailska-regex1-h7so7z0q/?token=...
+[I 15:46:13.881 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:46:13.885 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:46:14.236 NotebookApp] 302 GET /user/ilvailska-regex1-h7so7z0q/ (10.0.5.20) 0.920000ms
+[I 15:46:20.325 NotebookApp] 302 GET /user/ilvailska-regex1-h7so7z0q/?token=mRVLnX51RJGCUjF9ghOnwA (108.92.69.109) 0.670000ms
+[I 15:46:24.600 NotebookApp] Creating new notebook in 
+[I 15:46:24.614 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 15:46:25.789 NotebookApp] Kernel started: c5426627-d5ff-41df-9087-7741cd0f0e7e, name: python3
+[I 15:46:25.789 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 15:46:25.789 NotebookApp] Culling kernels even with connected clients
+[I 15:46:33.129 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:46:33.679 NotebookApp] Starting buffering for c5426627-d5ff-41df-9087-7741cd0f0e7e:a41c78688d7a4ec382a1bbe4602ec23b
+[W 15:46:37.533 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 15:48:37.637 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:50:37.876 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:52:38.005 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:54:37.639 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:56:37.669 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:58:37.639 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:00:38.013 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:02:37.642 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:06:37.701 NotebookApp] Saving file at /YAS, WE DONE, PYTHON SCATTER PLOT.ipynb
+[I 16:08:37.645 NotebookApp] Saving file at /YAS, WE DONE, PYTHON SCATTER PLOT.ipynb
+[I 16:10:37.645 NotebookApp] Saving file at /YAS, WE DONE, PYTHON SCATTER PLOT.ipynb
+[I 16:12:37.638 NotebookApp] Saving file at /YAS, WE DONE, PYTHON SCATTER PLOT.ipynb
+[I 16:14:37.660 NotebookApp] Saving file at /YAS, WE DONE, PYTHON SCATTER PLOT.ipynb
+[I 16:16:37.632 NotebookApp] Saving file at /YAS, WE DONE, PYTHON SCATTER PLOT.ipynb
+[W 16:18:25.790 NotebookApp] Culling 'idle' kernel 'python3' (c5426627-d5ff-41df-9087-7741cd0f0e7e) with 1 connections due to 649 seconds of inactivity.
+[I 16:18:25.791 NotebookApp] Kernel shutdown: c5426627-d5ff-41df-9087-7741cd0f0e7e
+[W 16:18:26.577 NotebookApp] 410 DELETE /user/ilvailska-regex1-h7so7z0q/api/sessions/314e1907-058e-4b61-8a34-7419cf1bb234 (108.92.69.109): Kernel deleted before session
+[W 16:18:26.578 NotebookApp] Kernel deleted before session
+[W 16:18:26.578 NotebookApp] 410 DELETE /user/ilvailska-regex1-h7so7z0q/api/sessions/314e1907-058e-4b61-8a34-7419cf1bb234 (108.92.69.109) 2.750000ms referer=https://hub.gke2.mybinder.org/user/ilvailska-regex1-h7so7z0q/notebooks/YAS%2C%20WE%20DONE%2C%20PYTHON%20SCATTER%20PLOT.ipynb
+[W 16:18:53.032 NotebookApp] 404 GET /user/ilvailska-regex1-h7so7z0q/api/contents/py3%20scatterplot.ipynb?type=notebook&content=0&_=1625154396100 (108.92.69.109): No such file or directory: py3 scatterplot.ipynb
+[W 16:18:53.032 NotebookApp] No such file or directory: py3 scatterplot.ipynb
+[W 16:18:53.033 NotebookApp] 404 GET /user/ilvailska-regex1-h7so7z0q/api/contents/py3%20scatterplot.ipynb?type=notebook&content=0&_=1625154396100 (108.92.69.109) 2.530000ms referer=https://hub.gke2.mybinder.org/user/ilvailska-regex1-h7so7z0q/notebooks/YAS%2C%20WE%20DONE%2C%20PYTHON%20SCATTER%20PLOT.ipynb
+[I 16:18:53.079 NotebookApp] Uploading file to /py3 scatterplot.ipynb
+[W 16:18:53.161 NotebookApp] 404 PATCH /user/ilvailska-regex1-h7so7z0q/api/sessions/314e1907-058e-4b61-8a34-7419cf1bb234 (108.92.69.109): Session not found: session_id='314e1907-058e-4b61-8a34-7419cf1bb234'
+[W 16:18:53.161 NotebookApp] Session not found: session_id='314e1907-058e-4b61-8a34-7419cf1bb234'
+[W 16:18:53.162 NotebookApp] 404 PATCH /user/ilvailska-regex1-h7so7z0q/api/sessions/314e1907-058e-4b61-8a34-7419cf1bb234 (108.92.69.109) 1.780000ms referer=https://hub.gke2.mybinder.org/user/ilvailska-regex1-h7so7z0q/notebooks/YAS%2C%20WE%20DONE%2C%20PYTHON%20SCATTER%20PLOT.ipynb
+[I 16:20:03.534 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
