@@ -219,3 +219,33 @@ TermSocket.open: Opened 1
 [I 15:38:47.371 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 2021-07-02 18:01:11.493 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:01:11.493 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:01:11.493 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:01:11.493 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:01:11.493 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:01:11.493 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:01:11.493 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:01:11.493 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-02 18:01:11.493 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-02 18:01:11.493 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:01:11.493 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:01:11.493 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-02 18:01:11.501 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-02 18:01:11.501 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 18:01:11.507 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/nteract_on_jupyter
+[I 18:01:11.509 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 18:01:11.510 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 18:01:11.510 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 18:01:11.510 NotebookApp] http://jupyter-ilvailska-2dregex1-2dhcvvdzhn:8888/user/ilvailska-regex1-hcvvdzhn/?token=...
+[I 18:01:11.510 NotebookApp]  or http://127.0.0.1:8888/user/ilvailska-regex1-hcvvdzhn/?token=...
+[I 18:01:11.510 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 18:01:11.515 NotebookApp] No web browser found: could not locate runnable browser.
+[I 18:01:11.518 NotebookApp] 302 GET /user/ilvailska-regex1-hcvvdzhn/ (10.0.5.98) 1.520000ms
+[I 18:01:19.608 NotebookApp] 302 GET /user/ilvailska-regex1-hcvvdzhn/?token=pr0OBwnnTke2VxL3wBqhGg (108.92.69.109) 0.800000ms
+[I 18:03:45.440 NotebookApp] Saving file at /Py3_version/py3 scatterplot.py
+[I 18:03:59.743 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 18:08:12.478 NotebookApp] Saving file at /R_version/R Scatterplot.r
+[I 18:10:37.880 NotebookApp] Saving file at /R_version/R Scatterplot.r

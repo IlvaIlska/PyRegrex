@@ -21,7 +21,7 @@ from sklearn.linear_model import LinearRegression
 
 read = pd.read_csv(sys.argv[1])
 read.plot.scatter(x = 'x', y = 'y', title = "Python 3 Scatter")
-
+mpl.savefig('py_orig.png')
 
 # # remake 1D array into 2D, then split data into training and test sets 
 
@@ -66,7 +66,7 @@ mpl.xlabel('x')
 mpl.ylabel('y')
 #mpl.plot()
 mpl.show()
-
+mpl.savefig('py_lm.png')
 
 # In[ ]:
 
