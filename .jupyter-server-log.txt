@@ -183,3 +183,11 @@ TermSocket.open: Opened 1
 [W 15:20:54.660 NotebookApp] 410 DELETE /user/ilvailska-regex1-29y5ru4d/api/sessions/3a353cc8-2c16-425c-8671-cfcf3eb51188 (108.92.69.109): Kernel deleted before session
 [W 15:20:54.660 NotebookApp] Kernel deleted before session
 [W 15:20:54.660 NotebookApp] 410 DELETE /user/ilvailska-regex1-29y5ru4d/api/sessions/3a353cc8-2c16-425c-8671-cfcf3eb51188 (108.92.69.109) 2.240000ms referer=https://hub.gke2.mybinder.org/user/ilvailska-regex1-29y5ru4d/notebooks/py3%20scatterplot.ipynb
+[W 15:25:11.410 NotebookApp] Notebook R Scatterplot.ipynb is not trusted
+[W 15:25:11.636 NotebookApp] Notebook R Scatterplot.ipynb is not trusted
+[I 15:26:31.244 NotebookApp] Saving file at /R Scatterplot.ipynb
+[I 15:26:44.540 NotebookApp] Saving file at /R Scatterplot.ipynb
+[W 15:26:49.940 NotebookApp] Notebook R Scatterplot.ipynb is not trusted
+[W 15:26:50.170 NotebookApp] Notebook R Scatterplot.ipynb is not trusted
+[W 15:26:53.758 NotebookApp] Culling 'idle' kernel 'ir' (9eca4d44-e480-452e-b2b3-753435551148) with 1 connections due to 625 seconds of inactivity.
+[I 15:26:53.759 NotebookApp] Kernel shutdown: 9eca4d44-e480-452e-b2b3-753435551148
