@@ -286,3 +286,7 @@ TermSocket.open: 1
 TermSocket.open: Opened 1
 [W 18:24:19.192 NotebookApp] delete /Py3_version/PyScript/py_lm.png
 [W 18:24:19.193 NotebookApp] delete /Py3_version/PyScript/py_orig.png
+[I 18:30:24.263 NotebookApp] Copying README.md to 
+[I 18:30:27.485 NotebookApp] Copying README.md to 
+[I 18:30:30.615 NotebookApp] Copying README.md to 
+[I 18:30:33.630 NotebookApp] Copying README.md to 
