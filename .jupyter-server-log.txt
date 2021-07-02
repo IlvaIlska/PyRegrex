@@ -192,3 +192,30 @@ TermSocket.open: Opened 1
 [W 15:26:53.758 NotebookApp] Culling 'idle' kernel 'ir' (9eca4d44-e480-452e-b2b3-753435551148) with 1 connections due to 625 seconds of inactivity.
 [I 15:26:53.759 NotebookApp] Kernel shutdown: 9eca4d44-e480-452e-b2b3-753435551148
 [I 15:31:24.259 NotebookApp] Saving file at /R Scatterplot.ipynb
+[W 2021-07-02 15:37:42.434 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:37:42.435 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:37:42.435 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:37:42.435 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:37:42.435 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:37:42.435 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:37:42.435 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:37:42.435 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-02 15:37:42.435 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-02 15:37:42.435 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:37:42.435 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:37:42.435 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-02 15:37:42.444 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-02 15:37:42.444 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 15:37:42.455 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/nteract_on_jupyter
+[I 15:37:42.457 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 15:37:42.458 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 15:37:42.458 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 15:37:42.458 NotebookApp] http://jupyter-ilvailska-2dregex1-2dygi3ayha:8888/user/ilvailska-regex1-ygi3ayha/?token=...
+[I 15:37:42.458 NotebookApp]  or http://127.0.0.1:8888/user/ilvailska-regex1-ygi3ayha/?token=...
+[I 15:37:42.458 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:37:42.463 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:37:42.467 NotebookApp] 302 GET /user/ilvailska-regex1-ygi3ayha/ (10.0.5.98) 1.700000ms
+[I 15:37:45.628 NotebookApp] 302 GET /user/ilvailska-regex1-ygi3ayha/?token=nvEsfGl0SoKzuR9STcoYDA (108.92.69.109) 0.740000ms
+[I 15:38:47.371 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
