@@ -249,3 +249,40 @@ TermSocket.open: 1
 TermSocket.open: Opened 1
 [I 18:08:12.478 NotebookApp] Saving file at /R_version/R Scatterplot.r
 [I 18:10:37.880 NotebookApp] Saving file at /R_version/R Scatterplot.r
+[W 2021-07-02 18:18:43.825 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:18:43.825 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:18:43.825 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:18:43.825 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:18:43.825 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:18:43.825 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:18:43.825 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:18:43.825 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-02 18:18:43.825 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-02 18:18:43.825 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:18:43.825 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 18:18:43.825 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-02 18:18:43.834 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-02 18:18:43.834 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 18:18:43.843 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/nteract_on_jupyter
+[I 18:18:43.845 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 18:18:43.846 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 18:18:43.846 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 18:18:43.846 NotebookApp] http://jupyter-ilvailska-2dregex1-2decef3zae:8888/user/ilvailska-regex1-ecef3zae/?token=...
+[I 18:18:43.846 NotebookApp]  or http://127.0.0.1:8888/user/ilvailska-regex1-ecef3zae/?token=...
+[I 18:18:43.846 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 18:18:43.850 NotebookApp] No web browser found: could not locate runnable browser.
+[I 18:18:44.362 NotebookApp] 302 GET /user/ilvailska-regex1-ecef3zae/ (10.0.5.98) 0.970000ms
+[I 18:18:51.369 NotebookApp] 302 GET /user/ilvailska-regex1-ecef3zae/?token=RfxYkWbmTdCa8Qev5mWOJw (108.92.69.109) 0.750000ms
+[I 18:19:04.707 NotebookApp] Creating new directory in /Py3_version
+[I 18:19:37.371 NotebookApp] Copying Py3_version/regrex1.csv to /Py3_version
+[I 18:20:05.952 NotebookApp] Creating new directory in /R_version
+[I 18:20:22.133 NotebookApp] Copying R_version/regrex1.csv to /R_version
+[W 18:21:52.846 NotebookApp] delete /R_version/Rscript/r_lm.png
+[W 18:21:52.849 NotebookApp] delete /R_version/Rscript/r_orig.png
+[W 18:22:02.145 NotebookApp] delete /Py3_version/PyScript/py_lm.png
+[W 18:22:02.148 NotebookApp] delete /Py3_version/PyScript/py_orig.png
+[I 18:22:13.595 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 18:24:19.192 NotebookApp] delete /Py3_version/PyScript/py_lm.png
+[W 18:24:19.193 NotebookApp] delete /Py3_version/PyScript/py_orig.png
