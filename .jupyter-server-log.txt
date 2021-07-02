@@ -134,3 +134,52 @@ TermSocket.open: Opened 1
 [W 16:54:33.409 NotebookApp] 410 DELETE /user/ilvailska-regex1-gnkb9w14/api/sessions/41a15c5f-e5b6-4dac-9e10-78161735c279 (108.92.69.109) 1.570000ms referer=https://hub.gke2.mybinder.org/user/ilvailska-regex1-gnkb9w14/notebooks/py3%20scatterplot.ipynb
 [I 16:55:56.697 NotebookApp] Saving file at /py3 scatterplot.py
 [I 16:57:03.681 NotebookApp] Saving file at /py3 scatterplot.py
+[W 2021-07-02 15:09:05.144 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:09:05.144 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:09:05.144 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:09:05.145 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:09:05.145 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:09:05.145 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:09:05.145 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:09:05.145 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-02 15:09:05.145 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-02 15:09:05.145 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:09:05.145 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-02 15:09:05.145 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-02 15:09:05.153 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-02 15:09:05.153 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 15:09:05.164 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/nteract_on_jupyter
+[I 15:09:05.166 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 15:09:05.166 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 15:09:05.167 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 15:09:05.167 NotebookApp] http://jupyter-ilvailska-2dregex1-2d29y5ru4d:8888/user/ilvailska-regex1-29y5ru4d/?token=...
+[I 15:09:05.167 NotebookApp]  or http://127.0.0.1:8888/user/ilvailska-regex1-29y5ru4d/?token=...
+[I 15:09:05.167 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:09:05.171 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:09:05.175 NotebookApp] 302 GET /user/ilvailska-regex1-29y5ru4d/ (10.0.5.98) 2.040000ms
+[I 15:09:12.018 NotebookApp] 302 GET /user/ilvailska-regex1-29y5ru4d/?token=y5vELbBuQxqsG9KmJJx-gQ (108.92.69.109) 0.910000ms
+[W 15:09:53.501 NotebookApp] Notebook YAS, WE DONE, PYTHON SCATTER PLOT.ipynb is not trusted
+[I 15:09:53.756 NotebookApp] Kernel started: 3834a797-b0db-46f2-aab6-c8ad292cd4b2, name: python3
+[I 15:09:53.757 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 15:09:53.757 NotebookApp] Culling kernels even with connected clients
+[I 15:09:53.777 NotebookApp] Kernel started: 7ad5e655-a348-465a-bcb6-b25a94847fd1, name: python3
+[I 15:10:03.335 NotebookApp] Starting buffering for 7ad5e655-a348-465a-bcb6-b25a94847fd1:efbb21eb0026494b8a899cd30dbb0ec4
+[W 15:10:08.447 NotebookApp] Notebook YAS, WE DONE, PYTHON SCATTER PLOT.ipynb is not trusted
+[I 15:10:11.969 NotebookApp] Starting buffering for 7ad5e655-a348-465a-bcb6-b25a94847fd1:d29259915bbb4365884f192161d3708a
+[I 15:10:30.258 NotebookApp] Creating new notebook in 
+[I 15:10:31.196 NotebookApp] Kernel started: 9eca4d44-e480-452e-b2b3-753435551148, name: ir
+[I 15:10:32.245 NotebookApp] Adapting from protocol version 5.0 (kernel 9eca4d44-e480-452e-b2b3-753435551148) to 5.3 (client).
+[I 15:12:31.236 NotebookApp] Saving file at /R Scatterplot.ipynb
+[I 15:14:31.223 NotebookApp] Saving file at /R Scatterplot.ipynb
+[I 15:16:31.228 NotebookApp] Saving file at /R Scatterplot.ipynb
+[I 15:18:31.249 NotebookApp] Saving file at /R Scatterplot.ipynb
+[I 15:19:35.022 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 15:20:53.757 NotebookApp] Culling 'idle' kernel 'python3' (3834a797-b0db-46f2-aab6-c8ad292cd4b2) with 1 connections due to 658 seconds of inactivity.
+[I 15:20:53.758 NotebookApp] Kernel shutdown: 3834a797-b0db-46f2-aab6-c8ad292cd4b2
+[W 15:20:54.261 NotebookApp] Culling 'idle' kernel 'python3' (7ad5e655-a348-465a-bcb6-b25a94847fd1) with 0 connections due to 645 seconds of inactivity.
+[I 15:20:54.262 NotebookApp] Kernel shutdown: 7ad5e655-a348-465a-bcb6-b25a94847fd1
+[W 15:20:54.660 NotebookApp] 410 DELETE /user/ilvailska-regex1-29y5ru4d/api/sessions/3a353cc8-2c16-425c-8671-cfcf3eb51188 (108.92.69.109): Kernel deleted before session
+[W 15:20:54.660 NotebookApp] Kernel deleted before session
+[W 15:20:54.660 NotebookApp] 410 DELETE /user/ilvailska-regex1-29y5ru4d/api/sessions/3a353cc8-2c16-425c-8671-cfcf3eb51188 (108.92.69.109) 2.240000ms referer=https://hub.gke2.mybinder.org/user/ilvailska-regex1-29y5ru4d/notebooks/py3%20scatterplot.ipynb
